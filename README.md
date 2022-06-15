@@ -56,3 +56,7 @@ The script will output data in the following formatting. This header is also pri
 - Output is **space** delimited.
 - Does not work with tar files.
 - Does not work with gzip files.
+
+### Example.
+
+![image](https://user-images.githubusercontent.com/70329044/173815809-8a38a209-c17e-44ef-a65d-7894786e6f0b.png)
